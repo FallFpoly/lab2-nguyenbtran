@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class bai1 {
 
     public static void main(String[] args) {
+        System.out.print("Nguyễn Phạm Bảo Trân");
        //giải phương trình bậc 1
         int a,b;
     Scanner sc = new Scanner(System.in);
