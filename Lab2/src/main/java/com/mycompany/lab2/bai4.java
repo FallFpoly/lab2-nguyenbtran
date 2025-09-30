@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class bai4 {
     public static void main(String[] args) {
+        System.out.print("Nguyễn Phạm Bảo Trân");
         menu();
     }
 
